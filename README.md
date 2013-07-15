@@ -1,7 +1,7 @@
 ![SpineTunes](/images/logo.png)
 ==========
 
-Spine tunes is a SoundCloud music player built on using the Backbone.js Framework.
+SpineTunes is a SoundCloud music player built on the Backbone.js Framework.
 
 ![SpineTunes Screenshot](/screenshot.png)
 
