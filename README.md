@@ -1,6 +1,3 @@
-![SpineTunes](/images/logo.png)
-==========
-
 SpineTunes is a SoundCloud music player built on the Backbone.js Framework.
 
 ![SpineTunes Screenshot](/screenshot.png)
